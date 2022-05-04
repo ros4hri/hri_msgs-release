@@ -2,6 +2,23 @@
 Changelog for package hri_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.2 (2022-05-04)
+------------------
+* omitted to update CMakeLists
+* Contributors: Séverin Lemaignan
+
+0.5.1 (2022-05-04)
+------------------
+* add more info about the EngagementLevel msg
+* Contributors: antonioandriella
+
+0.5.0 (2022-05-02)
+------------------
+* add social engagement msg with 5 discrete levels
+* add confidence to Expression message
+* update README
+* Contributors: Séverin Lemaignan
+
 0.4.1 (2022-01-25)
 ------------------
 * CMakeLists: update references to BodyPosture and Gesture messages
