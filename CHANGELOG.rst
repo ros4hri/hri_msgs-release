@@ -2,6 +2,19 @@
 Changelog for package hri_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.0 (2022-06-28)
+------------------
+* expressions: expand list + use string constants
+  The list is based on Chambers' MSc thesis, Bristol Robotics lab 2020
+* Contributors: Séverin Lemaignan
+
+0.6.0 (2022-06-01)
+------------------
+* revise IdsMatch to enable associations between any 2 ids, incl ids of same type
+  This is especially useful to be able to 'merge' 2 people (eg, alias one to the other)
+  by publishing a 'match' between 2 person ids
+* Contributors: Séverin Lemaignan
+
 0.5.2 (2022-05-04)
 ------------------
 * omitted to update CMakeLists
