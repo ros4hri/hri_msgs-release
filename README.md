@@ -1,3 +1,26 @@
+## hri_msgs (noetic) - 0.7.1-1
+
+The packages in the `hri_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release hri_msgs -r noetic` on `Wed, 20 Jul 2022 09:51:31 -0000`
+
+The `hri_msgs` package was released.
+
+Version of package(s) in repository `hri_msgs`:
+
+- upstream repository: https://github.com/ros4hri/hri_msgs.git
+- release repository: https://github.com/ros4hri/hri_msgs-release.git
+- rosdistro version: `0.7.0-1`
+- old version: `0.7.0-1`
+- new version: `0.7.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## hri_msgs (melodic) - 0.7.1-1
 
 The packages in the `hri_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release hri_msgs -r melodic` on `Wed, 20 Jul 2022 09:50:17 -0000`
