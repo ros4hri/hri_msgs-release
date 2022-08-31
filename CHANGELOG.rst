@@ -2,6 +2,28 @@
 Changelog for package hri_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.0 (2022-08-31)
+------------------
+* add Stamped and unstamped versions of NormalizedPointOfInterest2d
+* move LookAtWithStyle.msg to hri_actions_msgs
+* Rename point and region of interest messages to
+  'Normalized[PointOfInterest2d|RegionOfInterest2D]'
+* Add RegionOfInterest2D messages
+  This message represents a 2D region-of-interest with an associated confidence. The message contains a `Header`-type field to allow easy synchronisation with other messages.
+* Contributors: Francesco Tonini, Séverin Lemaignan
+
+0.7.2 (2022-07-20)
+------------------
+* Merge branch 'gaze-style' into 'master'
+  create LookAtWithStyle.msg
+  See merge request ros4hri/hri_msgs!3
+* create LookAtWithStyle.msg
+  users can specify how the GazeManager creates trajectories using the
+  `style` member.
+  currently NORMAL (using both neck and eyes) as well as EYES_ONLY and
+  NECK_ONLY exist and are supported by the GazeManager v2.
+* Contributors: Séverin Lemaignan, llach
+
 0.7.1 (2022-07-20)
 ------------------
 * add missing 'AudioFeatures.msg' and 'LiveSpeech.msg' to CMakeLists
