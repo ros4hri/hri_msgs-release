@@ -2,13 +2,14 @@
 Changelog for package hri_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.9.0 (2023-10-20)
+2.0.0 (2023-11-13)
 ------------------
-* add IETF language code to LiveSpeech
-* remove unused FAU field
-* [doc] improve messages documentation
-* [doc] anonymous person are not supposed to be created via semi-defined match
+* porting to humble
 * remove unused travis configuration
+* improve messages documentation
+* remove unused FAU field
+* add IETF language code to LiveSpeech
+* [doc] anonymous person are not supposed to be created via semi-defined match
 * Contributors: Luka Juricic, Séverin Lemaignan
 
 0.8.0 (2022-08-31)
