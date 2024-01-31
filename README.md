@@ -1,3 +1,26 @@
+## hri_msgs (humble) - 2.0.0-1
+
+The packages in the `hri_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --new-track --rosdistro humble --track humble hri_msgs` on `Wed, 31 Jan 2024 17:18:44 -0000`
+
+The `hri_msgs` package was released.
+
+Version of package(s) in repository `hri_msgs`:
+
+- upstream repository: https://github.com/ros4hri/hri_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## hri_msgs (noetic) - 0.9.0-1
 
 The packages in the `hri_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release hri_msgs -r noetic` on `Fri, 20 Oct 2023 10:28:07 -0000`
