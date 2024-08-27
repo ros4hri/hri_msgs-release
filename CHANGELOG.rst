@@ -2,6 +2,16 @@
 Changelog for package hri_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2024-07-01)
+------------------
+* bring back LiveSpeech/language while we transition to LiveSpeech/locale
+* LiveSpeech: refactor from language to locale
+* fix documentation
+* add copyright and documentation
+* [doc] reword ROS1/ROS2 README note
+* [doc] add reference to ROS 1 in README
+* Contributors: Luka Juricic, Séverin Lemaignan
+
 2.0.0 (2023-11-13)
 ------------------
 * porting to humble
