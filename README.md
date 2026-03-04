@@ -1,3 +1,26 @@
+## hri_msgs (jazzy) - 2.3.2-1
+
+The packages in the `hri_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --new-track --rosdistro jazzy --track jazzy hri_msgs` on `Wed, 04 Mar 2026 14:49:21 -0000`
+
+The `hri_msgs` package was released.
+
+Version of package(s) in repository `hri_msgs`:
+
+- upstream repository: https://github.com/ros4hri/hri_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.3.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## hri_msgs (humble) - 2.1.0-1
 
 The packages in the `hri_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release hri_msgs -r humble` on `Tue, 27 Aug 2024 10:59:12 -0000`
