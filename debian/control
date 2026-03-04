@@ -1,0 +1,12 @@
+Source: ros-rolling-hri-msgs
+Section: misc
+Priority: optional
+Maintainer: Séverin Lemaignan <severin.lemaignan@iiia.csic.es>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake-auto, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ament-lint-common <!nocheck>, ros-rolling-rosidl-default-generators, ros-rolling-sensor-msgs, ros-rolling-ros-workspace, ros-rolling-rosidl-typesupport-fastrtps-c, ros-rolling-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-hri-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-rosidl-default-runtime, ros-rolling-sensor-msgs, ros-rolling-ros-workspace
+Description: Messages, services and action definitions useful for Human-Robot Interaction
