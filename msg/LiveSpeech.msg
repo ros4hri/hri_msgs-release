@@ -17,6 +17,3 @@ float64 confidence # confidence of the final recognised speech, [0-1]
 #
 # For example, 'en_GB' specifies British English.
 string locale
-
-#### TMP -- to be removed
-string language
